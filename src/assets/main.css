@@ -1,0 +1,5 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Mali:ital,wght@1,500&family=Rampart+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lilita+One&family=Mali:ital,wght@1,500&family=Rampart+One&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
